@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MobileLab</string>
+    <string name="app_name">Student Card</string>
+    <string name="name">Aleksey Shadrin</string>
+    <string name="student">Student</string>
+    <string name="course">Group: B23-191-2 </string>
+    <string name="email">lesha.shadrin6@gmail.com</string>
+    <string name="phone">+7 (950) 157-44-38</string>
+    <string name="contacts_title">Contacts</string>
 </resources>
