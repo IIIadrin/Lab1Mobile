@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Студенческая карта</string>
+    <string name="name">Алексей Шадрин</string>
+    <string name="student">Студент</string>
+    <string name="course">Группа: Б23-191-2 </string>
+    <string name="email">lesha.shadrin6@gmail.com</string>
+    <string name="phone">+7 (950) 157-44-38</string>
+    <string name="contacts_title">Контакты</string>
+</resources>
